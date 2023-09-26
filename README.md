@@ -1,0 +1,1 @@
+# Bot-que-desliga-o-pc
