@@ -1,1 +1,1 @@
-# Bot-que-desliga-o-pc
+# Este é um "programa" que desliga seu pc automaticamente
